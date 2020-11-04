@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1499194663 source:c:\documents and settings\rbs\desktop\log_matrix\log_export\main.cpp
+	<iostream>
+	<windows.h>
+	<winable.h>
+	<string>
+	<time.h>
+	<stdio.h>
+	<fstream>
+	<io.h>
+
+1499708582 source:c:\googledrive\10. diretório pessoal\cristian ritter\log_matrix\log_export\main.cpp
+	<iostream>
+	<windows.h>
+	<winable.h>
+	<string>
+	<time.h>
+	<stdio.h>
+	<fstream>
+	<io.h>
+

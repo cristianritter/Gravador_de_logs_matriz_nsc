@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1499188937 source:c:\documents and settings\rbs\desktop\log_matrix\apaga_log_antigo\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<io.h>
+	<stdlib.h>
+

@@ -1,0 +1,3 @@
+TEMPO="3" // tempo do intervalo entre cada exportacao em horas
+PATH="E:\" //diretorio onde serao salvos os logs
+TEMPODEVIDA="10" //tempo de vida dos arquivos de log em dias

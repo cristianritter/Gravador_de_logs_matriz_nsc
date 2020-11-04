@@ -1,0 +1,2 @@
+PATH="C:\Documents and Settings\rbs\Meus documentos\*.csv" //caminho do arquivo
+HISTORICO="10" //dias

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1498244611 source:c:\documents and settings\rbs\desktop\log_matrix\log_matrix\principal.cpp
+	<stdio.h>
+	<windows.h>
+	<windows.h>
+	<iostream>
+	<Commctrl.h>
+
